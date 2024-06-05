@@ -1,4 +1,4 @@
-# confirm-always-reset-fields-after-submission-next-v15
+# conform-always-reset-fields-after-submission-next-v15
 
 ```sh
 npm install --force
